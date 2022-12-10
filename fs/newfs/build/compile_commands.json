@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/students/200111205/user-land-filesystem/fs/newfs/build",
+  "command": "/usr/bin/gcc  -I/home/students/200111205/user-land-filesystem/fs/newfs/./include  -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g -o CMakeFiles/hitszfs.dir/src/hitszfs.c.o -c /home/students/200111205/user-land-filesystem/fs/newfs/src/hitszfs.c",
+  "file": "/home/students/200111205/user-land-filesystem/fs/newfs/src/hitszfs.c"
+},
+{
+  "directory": "/home/students/200111205/user-land-filesystem/fs/newfs/build",
+  "command": "/usr/bin/gcc  -I/home/students/200111205/user-land-filesystem/fs/newfs/./include  -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g -o CMakeFiles/hitszfs.dir/src/hitszfs_debug.c.o -c /home/students/200111205/user-land-filesystem/fs/newfs/src/hitszfs_debug.c",
+  "file": "/home/students/200111205/user-land-filesystem/fs/newfs/src/hitszfs_debug.c"
+},
+{
+  "directory": "/home/students/200111205/user-land-filesystem/fs/newfs/build",
+  "command": "/usr/bin/gcc  -I/home/students/200111205/user-land-filesystem/fs/newfs/./include  -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g -o CMakeFiles/hitszfs.dir/src/hitszfs_utils.c.o -c /home/students/200111205/user-land-filesystem/fs/newfs/src/hitszfs_utils.c",
+  "file": "/home/students/200111205/user-land-filesystem/fs/newfs/src/hitszfs_utils.c"
+}
+]

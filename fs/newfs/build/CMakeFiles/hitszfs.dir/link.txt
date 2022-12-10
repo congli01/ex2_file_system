@@ -1,0 +1,1 @@
+/usr/bin/gcc  -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g -rdynamic CMakeFiles/hitszfs.dir/src/hitszfs.c.o CMakeFiles/hitszfs.dir/src/hitszfs_debug.c.o CMakeFiles/hitszfs.dir/src/hitszfs_utils.c.o -o hitszfs  -lfuse /home/students/200111205/lib/libddriver.a 
